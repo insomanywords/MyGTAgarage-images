@@ -1,7 +1,7 @@
 [
     {
         "name": "Pipistrello",
-        "manuf": "Pipistrello",
+        "manuf": "Overflod",
         "model": "Pipistrello",
         "spawn": "pipistrello",
         "price": "Unknown",
@@ -12,7 +12,7 @@
     },
     {
         "name": "Castigator",
-        "manuf": "Castigator",
+        "manuf": "Canis",
         "model": "Castigator",
         "spawn": "castigator",
         "price": "Unknown",
@@ -23,7 +23,7 @@
     },
     {
         "name": "Dorado",
-        "manuf": "Dorado",
+        "manuf": "Bravado",
         "model": "Dorado",
         "spawn": "dorado",
         "price": "Unknown",
@@ -45,7 +45,7 @@
     },
     {
         "name": "Aleutian",
-        "manuf": "Aleutian",
+        "manuf": "Vapid",
         "model": "Aleutian",
         "spawn": "aleutian",
         "price": "Unknown",
@@ -56,7 +56,7 @@
     },
     {
         "name": "Vivanite",
-        "manuf": "Vivanite",
+        "manuf": "Karin",
         "model": "Vivanite",
         "spawn": "vivanite",
         "price": "Unknown",
@@ -67,7 +67,7 @@
     },
     {
         "name": "Terminus",
-        "manuf": "Terminus",
+        "manuf": "Canis",
         "model": "Terminus",
         "spawn": "terminus",
         "price": "Unknown",
@@ -100,7 +100,7 @@
     },
     {
         "name": "FR36",
-        "manuf": "FR36",
+        "manuf": "Unknown",
         "model": "FR36",
         "spawn": "fr36",
         "price": "Unknown",
@@ -111,7 +111,7 @@
     },
     {
         "name": "Astron",
-        "manuf": "Astron",
+        "manuf": "Pfister",
         "model": "Astron",
         "spawn": "astron",
         "price": "Unknown",
@@ -155,7 +155,7 @@
     },
     {
         "name": "Champion",
-        "manuf": "Champion",
+        "manuf": "Dewbauchee",
         "model": "Champion",
         "spawn": "champion",
         "price": "Unknown",
@@ -166,7 +166,7 @@
     },
     {
         "name": "Deity",
-        "manuf": "Deity",
+        "manuf": "Unknown",
         "model": "Deity",
         "spawn": "deity",
         "price": "Unknown",
@@ -188,7 +188,7 @@
     },
     {
         "name": "Ignus",
-        "manuf": "Ignus",
+        "manuf": "Pegassi",
         "model": "Ignus",
         "spawn": "ignus",
         "price": "Unknown",
@@ -199,7 +199,7 @@
     },
     {
         "name": "I-Wagen",
-        "manuf": "I-Wagen",
+        "manuf": "Unknown",
         "model": "I-Wagen",
         "spawn": "iwagen",
         "price": "Unknown",
@@ -210,7 +210,7 @@
     },
     {
         "name": "Jubilee",
-        "manuf": "Jubilee",
+        "manuf": "Unknown",
         "model": "Jubilee",
         "spawn": "jubilee",
         "price": "Unknown",
@@ -232,7 +232,7 @@
     },
     {
         "name": "Reever",
-        "manuf": "Reever",
+        "manuf": "Unknown",
         "model": "Reever",
         "spawn": "reever",
         "price": "Unknown",
@@ -243,7 +243,7 @@
     },
     {
         "name": "Shinobi",
-        "manuf": "Shinobi",
+        "manuf": "Unknown",
         "model": "Shinobi",
         "spawn": "shinobi",
         "price": "Unknown",
@@ -254,7 +254,7 @@
     },
     {
         "name": "Zeno",
-        "manuf": "Zeno",
+        "manuf": "Unknown",
         "model": "Zeno",
         "spawn": "zeno",
         "price": "Unknown",
@@ -265,7 +265,7 @@
     },
     {
         "name": "Corsita",
-        "manuf": "Corsita",
+        "manuf": "Lampadati",
         "model": "Corsita",
         "spawn": "corsita",
         "price": "Unknown",
@@ -276,7 +276,7 @@
     },
     {
         "name": "Conada",
-        "manuf": "Conada",
+        "manuf": "Unknown",
         "model": "Conada",
         "spawn": "conada",
         "price": "Unknown",
@@ -287,7 +287,7 @@
     },
     {
         "name": "Draugur",
-        "manuf": "Draugur",
+        "manuf": "Unknown",
         "model": "Draugur",
         "spawn": "draugur",
         "price": "Unknown",
@@ -298,7 +298,7 @@
     },
     {
         "name": "Greenwood",
-        "manuf": "Greenwood",
+        "manuf": "Unknown",
         "model": "Greenwood",
         "spawn": "greenwood",
         "price": "Unknown",
@@ -320,7 +320,7 @@
     },
     {
         "name": "LM87",
-        "manuf": "LM87",
+        "manuf": "Benefactor",
         "model": "LM87",
         "spawn": "lm87",
         "price": "Unknown",
@@ -342,7 +342,7 @@
     },
     {
         "name": "Postlude",
-        "manuf": "Postlude",
+        "manuf": "Unknown",
         "model": "Postlude",
         "spawn": "postlude",
         "price": "Unknown",
@@ -353,7 +353,7 @@
     },
     {
         "name": "Rhinehart",
-        "manuf": "Rhinehart",
+        "manuf": "Unknown",
         "model": "Rhinehart",
         "spawn": "rhinehart",
         "price": "Unknown",
@@ -364,7 +364,7 @@
     },
     {
         "name": "SM722",
-        "manuf": "SM722",
+        "manuf": "Unknown",
         "model": "SM722",
         "spawn": "sm722",
         "price": "Unknown",
@@ -375,7 +375,7 @@
     },
     {
         "name": "10F",
-        "manuf": "10F",
+        "manuf": "Unknown",
         "model": "10F",
         "spawn": "tenf",
         "price": "Unknown",
@@ -452,7 +452,7 @@
     },
     {
         "name": "Panthere",
-        "manuf": "Panthere",
+        "manuf": "Toundra",
         "model": "Panthere",
         "spawn": "panthere",
         "price": "Unknown",
@@ -463,7 +463,7 @@
     },
     {
         "name": "Powersurge",
-        "manuf": "Powersurge",
+        "manuf": "Western",
         "model": "Powersurge",
         "spawn": "powersurge",
         "price": "Unknown",
@@ -485,7 +485,7 @@
     },
     {
         "name": "Virtue",
-        "manuf": "Virtue",
+        "manuf": "Ocelot",
         "model": "Virtue",
         "spawn": "virtue",
         "price": "Unknown",
@@ -496,7 +496,7 @@
     },
     {
         "name": "Boor",
-        "manuf": "Boor",
+        "manuf": "Unknown",
         "model": "Boor",
         "spawn": "boor",
         "price": "Unknown",
@@ -507,7 +507,7 @@
     },
     {
         "name": "Broadway",
-        "manuf": "Broadway",
+        "manuf": "Classique",
         "model": "Broadway",
         "spawn": "broadway",
         "price": "Unknown",
@@ -518,7 +518,7 @@
     },
     {
         "name": "Eudora",
-        "manuf": "Eudora",
+        "manuf": "Willard",
         "model": "Eudora",
         "spawn": "eudora",
         "price": "Unknown",
@@ -529,7 +529,7 @@
     },
     {
         "name": "Hotring Everon",
-        "manuf": "Hotring",
+        "manuf": "Karin",
         "model": "Everon",
         "spawn": "everon2",
         "price": "Unknown",
@@ -540,7 +540,7 @@
     },
     {
         "name": "Lectro",
-        "manuf": "Lectro",
+        "manuf": "Unknown",
         "model": "Lectro",
         "spawn": "lectro",
         "price": "Unknown",
@@ -551,7 +551,7 @@
     },
     {
         "name": "Neo",
-        "manuf": "Neo",
+        "manuf": "Unknown",
         "model": "Neo",
         "spawn": "neo",
         "price": "Unknown",
@@ -562,7 +562,7 @@
     },
     {
         "name": "Niobe",
-        "manuf": "Niobe",
+        "manuf": "Unknown",
         "model": "Niobe",
         "spawn": "niobe",
         "price": "Unknown",
@@ -584,7 +584,7 @@
     },
     {
         "name": "Envisage",
-        "manuf": "Envisage",
+        "manuf": "Unknown",
         "model": "Envisage",
         "spawn": "envisage",
         "price": "Unknown",
@@ -595,7 +595,7 @@
     },
     {
         "name": "GT750",
-        "manuf": "GT750",
+        "manuf": "Grotti",
         "model": "GT750",
         "spawn": "gt750",
         "price": "Unknown",
@@ -606,7 +606,7 @@
     },
     {
         "name": "X-treme",
-        "manuf": "X-treme",
+        "manuf": "Unknown",
         "model": "X-treme",
         "spawn": "xtreme",
         "price": "Unknown",
@@ -628,7 +628,7 @@
     },
     {
         "name": "Luiva",
-        "manuf": "Luiva",
+        "manuf": "Progen",
         "model": "Luiva",
         "spawn": "luiva",
         "price": "Unknown",
@@ -650,7 +650,7 @@
     },
     {
         "name": "Keitora",
-        "manuf": "Keitora",
+        "manuf": "Shitzu",
         "model": "Keitora",
         "spawn": "keitora",
         "price": "Unknown",
@@ -661,7 +661,7 @@
     },
     {
         "name": "Astrale",
-        "manuf": "Astrale",
+        "manuf": "Pfister",
         "model": "Astrale",
         "spawn": "astrale",
         "price": "Unknown",
@@ -738,7 +738,7 @@
     },
     {
         "name": "Adder",
-        "manuf": "Adder",
+        "manuf": "Truffade",
         "model": "Adder",
         "spawn": "adder",
         "price": "Unknown",
@@ -749,7 +749,7 @@
     },
     {
         "name": "Autarch",
-        "manuf": "Autarch",
+        "manuf": "Overflod",
         "model": "Autarch",
         "spawn": "autarch",
         "price": "Unknown",
@@ -771,7 +771,7 @@
     },
     {
         "name": "Bullet",
-        "manuf": "Bullet",
+        "manuf": "Vapid",
         "model": "Bullet",
         "spawn": "bullet",
         "price": "Unknown",
@@ -782,7 +782,7 @@
     },
     {
         "name": "Cheetah",
-        "manuf": "Cheetah",
+        "manuf": "Grotti",
         "model": "Cheetah",
         "spawn": "cheetah",
         "price": "Unknown",
@@ -793,7 +793,7 @@
     },
     {
         "name": "Cyclone",
-        "manuf": "Cyclone",
+        "manuf": "Coil",
         "model": "Cyclone",
         "spawn": "cyclone",
         "price": "Unknown",
@@ -826,7 +826,7 @@
     },
     {
         "name": "Emerus",
-        "manuf": "Emerus",
+        "manuf": "Progen",
         "model": "Emerus",
         "spawn": "emerus",
         "price": "Unknown",
@@ -848,7 +848,7 @@
     },
     {
         "name": "FMJ",
-        "manuf": "FMJ",
+        "manuf": "Vapid",
         "model": "FMJ",
         "spawn": "fmj",
         "price": "Unknown",
@@ -859,7 +859,7 @@
     },
     {
         "name": "Furia",
-        "manuf": "Furia",
+        "manuf": "Grotti",
         "model": "Furia",
         "spawn": "furia",
         "price": "Unknown",
@@ -870,7 +870,7 @@
     },
     {
         "name": "GP1",
-        "manuf": "GP1",
+        "manuf": "Progen",
         "model": "GP1",
         "spawn": "gp1",
         "price": "Unknown",
@@ -881,7 +881,7 @@
     },
     {
         "name": "Infernus",
-        "manuf": "Infernus",
+        "manuf": "Pegassi",
         "model": "Infernus",
         "spawn": "infernus",
         "price": "Unknown",
@@ -925,7 +925,7 @@
     },
     {
         "name": "Krieger",
-        "manuf": "Krieger",
+        "manuf": "Benefactor",
         "model": "Krieger",
         "spawn": "krieger",
         "price": "Unknown",
@@ -936,7 +936,7 @@
     },
     {
         "name": "RE-7B",
-        "manuf": "RE-7B",
+        "manuf": "Annis",
         "model": "RE-7B",
         "spawn": "le7b",
         "price": "Unknown",
@@ -947,7 +947,7 @@
     },
     {
         "name": "Nero",
-        "manuf": "Nero",
+        "manuf": "Truffade",
         "model": "Nero",
         "spawn": "nero",
         "price": "Unknown",
@@ -969,7 +969,7 @@
     },
     {
         "name": "Osiris",
-        "manuf": "Osiris",
+        "manuf": "Pegassi",
         "model": "Osiris",
         "spawn": "osiris",
         "price": "Unknown",
@@ -980,7 +980,7 @@
     },
     {
         "name": "Penetrator",
-        "manuf": "Penetrator",
+        "manuf": "Ocelot",
         "model": "Penetrator",
         "spawn": "penetrator",
         "price": "Unknown",
@@ -991,7 +991,7 @@
     },
     {
         "name": "811",
-        "manuf": "811",
+        "manuf": "Pfister",
         "model": "811",
         "spawn": "pfister811",
         "price": "Unknown",
@@ -1002,7 +1002,7 @@
     },
     {
         "name": "Reaper",
-        "manuf": "Reaper",
+        "manuf": "Pegassi",
         "model": "Reaper",
         "spawn": "reaper",
         "price": "Unknown",
@@ -1013,7 +1013,7 @@
     },
     {
         "name": "SC1",
-        "manuf": "SC1",
+        "manuf": "Ubermacht",
         "model": "SC1",
         "spawn": "sc1",
         "price": "Unknown",
@@ -1024,7 +1024,7 @@
     },
     {
         "name": "Scramjet",
-        "manuf": "Scramjet",
+        "manuf": "Unknown",
         "model": "Scramjet",
         "spawn": "scramjet",
         "price": "Unknown",
@@ -1035,7 +1035,7 @@
     },
     {
         "name": "ETR1",
-        "manuf": "ETR1",
+        "manuf": "Emperor",
         "model": "ETR1",
         "spawn": "sheava",
         "price": "Unknown",
@@ -1057,7 +1057,7 @@
     },
     {
         "name": "T20",
-        "manuf": "T20",
+        "manuf": "Progen",
         "model": "T20",
         "spawn": "t20",
         "price": "Free",
@@ -1068,7 +1068,7 @@
     },
     {
         "name": "Taipan",
-        "manuf": "Taipan",
+        "manuf": "Cheval",
         "model": "Taipan",
         "spawn": "taipan",
         "price": "Unknown",
@@ -1079,7 +1079,7 @@
     },
     {
         "name": "Tempesta",
-        "manuf": "Tempesta",
+        "manuf": "Pegassi",
         "model": "Tempesta",
         "spawn": "tempesta",
         "price": "Unknown",
@@ -1090,7 +1090,7 @@
     },
     {
         "name": "Tezeract",
-        "manuf": "Tezeract",
+        "manuf": "Pegassi",
         "model": "Tezeract",
         "spawn": "tezeract",
         "price": "Unknown",
@@ -1101,7 +1101,7 @@
     },
     {
         "name": "Thrax",
-        "manuf": "Thrax",
+        "manuf": "Truffade",
         "model": "Thrax",
         "spawn": "thrax",
         "price": "Unknown",
@@ -1112,7 +1112,7 @@
     },
     {
         "name": "Tigon",
-        "manuf": "Tigon",
+        "manuf": "Lampadati",
         "model": "Tigon",
         "spawn": "tigon",
         "price": "Unknown",
@@ -1123,7 +1123,7 @@
     },
     {
         "name": "Torero",
-        "manuf": "Torero",
+        "manuf": "Unknown",
         "model": "Torero",
         "spawn": "torero",
         "price": "Unknown",
@@ -1145,7 +1145,7 @@
     },
     {
         "name": "Tyrant",
-        "manuf": "Tyrant",
+        "manuf": "Overflod",
         "model": "Tyrant",
         "spawn": "tyrant",
         "price": "Unknown",
@@ -1156,7 +1156,7 @@
     },
     {
         "name": "Tyrus",
-        "manuf": "Tyrus",
+        "manuf": "Progen",
         "model": "Tyrus",
         "spawn": "tyrus",
         "price": "Unknown",
@@ -1167,7 +1167,7 @@
     },
     {
         "name": "Vacca",
-        "manuf": "Vacca",
+        "manuf": "Pegassi",
         "model": "Vacca",
         "spawn": "vacca",
         "price": "$10",
@@ -1178,7 +1178,7 @@
     },
     {
         "name": "Vagner",
-        "manuf": "Vagner",
+        "manuf": "Dewbauchee",
         "model": "Vagner",
         "spawn": "vagner",
         "price": "Unknown",
@@ -1189,7 +1189,7 @@
     },
     {
         "name": "Vigilante",
-        "manuf": "Vigilante",
+        "manuf": "Unknown",
         "model": "Vigilante",
         "spawn": "vigilante",
         "price": "Unknown",
@@ -1200,7 +1200,7 @@
     },
     {
         "name": "Visione",
-        "manuf": "Visione",
+        "manuf": "Grotti",
         "model": "Visione",
         "spawn": "visione",
         "price": "Unknown",
@@ -1211,7 +1211,7 @@
     },
     {
         "name": "Voltic",
-        "manuf": "Voltic",
+        "manuf": "Coil",
         "model": "Voltic",
         "spawn": "voltic",
         "price": "Unknown",
@@ -1222,7 +1222,7 @@
     },
     {
         "name": "Rocket Voltic",
-        "manuf": "Rocket",
+        "manuf": "Coil",
         "model": "Voltic",
         "spawn": "voltic2",
         "price": "Unknown",
@@ -1233,7 +1233,7 @@
     },
     {
         "name": "XA-21",
-        "manuf": "XA-21",
+        "manuf": "Unknown",
         "model": "XA-21",
         "spawn": "xa21",
         "price": "Unknown",
@@ -1244,7 +1244,7 @@
     },
     {
         "name": "Zentorno",
-        "manuf": "Zentorno",
+        "manuf": "Pegassi",
         "model": "Zentorno",
         "spawn": "zentorno",
         "price": "Unknown",
@@ -1255,7 +1255,7 @@
     },
     {
         "name": "Zorrusso",
-        "manuf": "Zorrusso",
+        "manuf": "Pegassi",
         "model": "Zorrusso",
         "spawn": "zorrusso",
         "price": "Unknown",
@@ -1266,7 +1266,7 @@
     },
     {
         "name": "Alpha",
-        "manuf": "Alpha",
+        "manuf": "Unknown",
         "model": "Alpha",
         "spawn": "alpha",
         "price": "Unknown",
@@ -1277,7 +1277,7 @@
     },
     {
         "name": "Banshee",
-        "manuf": "Banshee",
+        "manuf": "Bravado",
         "model": "Banshee",
         "spawn": "banshee",
         "price": "Unknown",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "Buffalo",
-        "manuf": "Buffalo",
+        "manuf": "Bravado",
         "model": "Buffalo",
         "spawn": "buffalo",
         "price": "Unknown",
@@ -1343,7 +1343,7 @@
     },
     {
         "name": "Sprunk Buffalo",
-        "manuf": "Sprunk",
+        "manuf": "Bravado",
         "model": "Buffalo",
         "spawn": "buffalo3",
         "price": "Unknown",
@@ -1365,7 +1365,7 @@
     },
     {
         "name": "Carbonizzare",
-        "manuf": "Carbonizzare",
+        "manuf": "Grotti",
         "model": "Carbonizzare",
         "spawn": "carbonizzare",
         "price": "Unknown",
@@ -1376,7 +1376,7 @@
     },
     {
         "name": "Comet",
-        "manuf": "Comet",
+        "manuf": "Pfister",
         "model": "Comet",
         "spawn": "comet2",
         "price": "Unknown",
@@ -1442,7 +1442,7 @@
     },
     {
         "name": "Coquette",
-        "manuf": "Coquette",
+        "manuf": "Invetero",
         "model": "Coquette",
         "spawn": "coquette",
         "price": "Unknown",
@@ -1464,7 +1464,7 @@
     },
     {
         "name": "Cypher",
-        "manuf": "Cypher",
+        "manuf": "Ubermacht",
         "model": "Cypher",
         "spawn": "cypher",
         "price": "Unknown",
@@ -1508,7 +1508,7 @@
     },
     {
         "name": "Euros",
-        "manuf": "Euros",
+        "manuf": "Annis",
         "model": "Euros",
         "spawn": "euros",
         "price": "Unknown",
@@ -1519,7 +1519,7 @@
     },
     {
         "name": "Feltzer",
-        "manuf": "Feltzer",
+        "manuf": "Benefactor",
         "model": "Feltzer",
         "spawn": "feltzer2",
         "price": "Unknown",
@@ -1552,7 +1552,7 @@
     },
     {
         "name": "Fusilade",
-        "manuf": "Fusilade",
+        "manuf": "Schyster",
         "model": "Fusilade",
         "spawn": "fusilade",
         "price": "Unknown",
@@ -1563,7 +1563,7 @@
     },
     {
         "name": "Futo",
-        "manuf": "Futo",
+        "manuf": "Unknown",
         "model": "Futo",
         "spawn": "futo",
         "price": "Unknown",
@@ -1585,7 +1585,7 @@
     },
     {
         "name": "GB200",
-        "manuf": "GB200",
+        "manuf": "Vapid",
         "model": "GB200",
         "spawn": "gb200",
         "price": "Unknown",
@@ -1596,7 +1596,7 @@
     },
     {
         "name": "Growler",
-        "manuf": "Growler",
+        "manuf": "Pfister",
         "model": "Growler",
         "spawn": "growler",
         "price": "Unknown",
@@ -1618,7 +1618,7 @@
     },
     {
         "name": "Imorgon",
-        "manuf": "Imorgon",
+        "manuf": "Overflod",
         "model": "Imorgon",
         "spawn": "imorgon",
         "price": "Unknown",
@@ -1640,7 +1640,7 @@
     },
     {
         "name": "Jester",
-        "manuf": "Jester",
+        "manuf": "Dinka",
         "model": "Jester",
         "spawn": "jester",
         "price": "Unknown",
@@ -1684,7 +1684,7 @@
     },
     {
         "name": "Jugular",
-        "manuf": "Jugular",
+        "manuf": "Ocelot",
         "model": "Jugular",
         "spawn": "jugular",
         "price": "Unknown",
@@ -1695,7 +1695,7 @@
     },
     {
         "name": "Blista Kanjo",
-        "manuf": "Blista",
+        "manuf": "Dinka",
         "model": "Kanjo",
         "spawn": "kanjo",
         "price": "Unknown",
@@ -1706,7 +1706,7 @@
     },
     {
         "name": "Khamelion",
-        "manuf": "Khamelion",
+        "manuf": "Unknown",
         "model": "Khamelion",
         "spawn": "khamelion",
         "price": "Unknown",
@@ -1717,7 +1717,7 @@
     },
     {
         "name": "Kuruma",
-        "manuf": "Kuruma",
+        "manuf": "Karin",
         "model": "Kuruma",
         "spawn": "kuruma",
         "price": "Unknown",
@@ -1739,7 +1739,7 @@
     },
     {
         "name": "Lynx",
-        "manuf": "Lynx",
+        "manuf": "Unknown",
         "model": "Lynx",
         "spawn": "lynx",
         "price": "Unknown",
@@ -1750,7 +1750,7 @@
     },
     {
         "name": "Massacro",
-        "manuf": "Massacro",
+        "manuf": "Dewbauchee",
         "model": "Massacro",
         "spawn": "massacro",
         "price": "Unknown",
@@ -1772,7 +1772,7 @@
     },
     {
         "name": "Neon",
-        "manuf": "Neon",
+        "manuf": "Pfister",
         "model": "Neon",
         "spawn": "neon",
         "price": "Unknown",
@@ -1783,7 +1783,7 @@
     },
     {
         "name": "9F",
-        "manuf": "9F",
+        "manuf": "Obey",
         "model": "9F",
         "spawn": "ninef",
         "price": "Unknown",
@@ -1794,7 +1794,7 @@
     },
     {
         "name": "Omnis",
-        "manuf": "Omnis",
+        "manuf": "Unknown",
         "model": "Omnis",
         "spawn": "omnis",
         "price": "Unknown",
@@ -1805,7 +1805,7 @@
     },
     {
         "name": "Pariah",
-        "manuf": "Pariah",
+        "manuf": "Ocelot",
         "model": "Pariah",
         "spawn": "pariah",
         "price": "Unknown",
@@ -1816,7 +1816,7 @@
     },
     {
         "name": "Penumbra",
-        "manuf": "Penumbra",
+        "manuf": "Maibatsu",
         "model": "Penumbra",
         "spawn": "penumbra",
         "price": "Unknown",
@@ -1871,7 +1871,7 @@
     },
     {
         "name": "Raptor",
-        "manuf": "Raptor",
+        "manuf": "Unknown",
         "model": "Raptor",
         "spawn": "raptor",
         "price": "Unknown",
@@ -1882,7 +1882,7 @@
     },
     {
         "name": "Remus",
-        "manuf": "Remus",
+        "manuf": "Unknown",
         "model": "Remus",
         "spawn": "remus",
         "price": "Unknown",
@@ -1893,7 +1893,7 @@
     },
     {
         "name": "Revolter",
-        "manuf": "Revolter",
+        "manuf": "Unknown",
         "model": "Revolter",
         "spawn": "revolter",
         "price": "Unknown",
@@ -1904,7 +1904,7 @@
     },
     {
         "name": "Ruston",
-        "manuf": "Ruston",
+        "manuf": "Hijak",
         "model": "Ruston",
         "spawn": "ruston",
         "price": "Unknown",
@@ -1915,7 +1915,7 @@
     },
     {
         "name": "S95",
-        "manuf": "S95",
+        "manuf": "Karin",
         "model": "S95",
         "spawn": "s95",
         "price": "Unknown",
@@ -1981,7 +1981,7 @@
     },
     {
         "name": "Schwartzer",
-        "manuf": "Schwartzer",
+        "manuf": "Unknown",
         "model": "Schwartzer",
         "spawn": "schwarzer",
         "price": "Unknown",
@@ -2003,7 +2003,7 @@
     },
     {
         "name": "Sentinel",
-        "manuf": "Sentinel",
+        "manuf": "Ubermacht",
         "model": "Sentinel",
         "spawn": "sentinel2",
         "price": "Unknown",
@@ -2025,7 +2025,7 @@
     },
     {
         "name": "Seven-70",
-        "manuf": "Seven-70",
+        "manuf": "Unknown",
         "model": "Seven-70",
         "spawn": "seven70",
         "price": "Unknown",
@@ -2036,7 +2036,7 @@
     },
     {
         "name": "Specter",
-        "manuf": "Specter",
+        "manuf": "Unknown",
         "model": "Specter",
         "spawn": "specter",
         "price": "Unknown",
@@ -2058,7 +2058,7 @@
     },
     {
         "name": "Streiter",
-        "manuf": "Streiter",
+        "manuf": "Unknown",
         "model": "Streiter",
         "spawn": "streiter",
         "price": "Unknown",
@@ -2069,7 +2069,7 @@
     },
     {
         "name": "Sugoi",
-        "manuf": "Sugoi",
+        "manuf": "Dinka",
         "model": "Sugoi",
         "spawn": "sugoi",
         "price": "Unknown",
@@ -2080,7 +2080,7 @@
     },
     {
         "name": "Sultan",
-        "manuf": "Sultan",
+        "manuf": "Karin",
         "model": "Sultan",
         "spawn": "sultan",
         "price": "Unknown",
@@ -2113,7 +2113,7 @@
     },
     {
         "name": "Surano",
-        "manuf": "Surano",
+        "manuf": "Benefactor",
         "model": "Surano",
         "spawn": "surano",
         "price": "Unknown",
@@ -2146,7 +2146,7 @@
     },
     {
         "name": "Vectre",
-        "manuf": "Vectre",
+        "manuf": "Emperor",
         "model": "Vectre",
         "spawn": "vectre",
         "price": "Unknown",
@@ -2157,7 +2157,7 @@
     },
     {
         "name": "V-STR",
-        "manuf": "V-STR",
+        "manuf": "Albany",
         "model": "V-STR",
         "spawn": "vstr",
         "price": "Unknown",
@@ -2179,7 +2179,7 @@
     },
     {
         "name": "ZR350",
-        "manuf": "ZR350",
+        "manuf": "Unknown",
         "model": "ZR350",
         "spawn": "zr350",
         "price": "Unknown",
@@ -2190,7 +2190,7 @@
     },
     {
         "name": "Blade",
-        "manuf": "Blade",
+        "manuf": "Vapid",
         "model": "Blade",
         "spawn": "blade",
         "price": "Unknown",
@@ -2201,7 +2201,7 @@
     },
     {
         "name": "Buccaneer",
-        "manuf": "Buccaneer",
+        "manuf": "Albany",
         "model": "Buccaneer",
         "spawn": "buccaneer",
         "price": "Unknown",
@@ -2223,7 +2223,7 @@
     },
     {
         "name": "Chino",
-        "manuf": "Chino",
+        "manuf": "Vapid",
         "model": "Chino",
         "spawn": "chino",
         "price": "Free",
@@ -2245,7 +2245,7 @@
     },
     {
         "name": "Clique",
-        "manuf": "Clique",
+        "manuf": "Unknown",
         "model": "Clique",
         "spawn": "clique",
         "price": "Unknown",
@@ -2267,7 +2267,7 @@
     },
     {
         "name": "Deviant",
-        "manuf": "Deviant",
+        "manuf": "Schyster",
         "model": "Deviant",
         "spawn": "deviant",
         "price": "Unknown",
@@ -2278,7 +2278,7 @@
     },
     {
         "name": "Dominator",
-        "manuf": "Dominator",
+        "manuf": "Vapid",
         "model": "Dominator",
         "spawn": "dominator",
         "price": "Unknown",
@@ -2289,7 +2289,7 @@
     },
     {
         "name": "Pisswasser Dominator",
-        "manuf": "Pisswasser",
+        "manuf": "Vapid",
         "model": "Dominator",
         "spawn": "dominator2",
         "price": "Unknown",
@@ -2311,7 +2311,7 @@
     },
     {
         "name": "Apocalypse Dominator",
-        "manuf": "Apocalypse",
+        "manuf": "Vapid",
         "model": "Dominator",
         "spawn": "dominator4",
         "price": "Free",
@@ -2333,7 +2333,7 @@
     },
     {
         "name": "Nightmare Dominator",
-        "manuf": "Nightmare",
+        "manuf": "Vapid",
         "model": "Dominator",
         "spawn": "dominator6",
         "price": "Free",
@@ -2366,7 +2366,7 @@
     },
     {
         "name": "Ellie",
-        "manuf": "Ellie",
+        "manuf": "Vapid",
         "model": "Ellie",
         "spawn": "ellie",
         "price": "Unknown",
@@ -2377,7 +2377,7 @@
     },
     {
         "name": "Faction",
-        "manuf": "Faction",
+        "manuf": "Willard",
         "model": "Faction",
         "spawn": "faction",
         "price": "Free",
@@ -2410,7 +2410,7 @@
     },
     {
         "name": "Gauntlet",
-        "manuf": "Gauntlet",
+        "manuf": "Bravado",
         "model": "Gauntlet",
         "spawn": "gauntlet",
         "price": "Unknown",
@@ -2421,7 +2421,7 @@
     },
     {
         "name": "Redwood Gauntlet",
-        "manuf": "Redwood",
+        "manuf": "Bravado",
         "model": "Gauntlet",
         "spawn": "gauntlet2",
         "price": "Unknown",
@@ -2476,7 +2476,7 @@
     },
     {
         "name": "Hermes",
-        "manuf": "Hermes",
+        "manuf": "Albany",
         "model": "Hermes",
         "spawn": "hermes",
         "price": "Unknown",
@@ -2487,7 +2487,7 @@
     },
     {
         "name": "Hotknife",
-        "manuf": "Hotknife",
+        "manuf": "Unknown",
         "model": "Hotknife",
         "spawn": "hotknife",
         "price": "Unknown",
@@ -2498,7 +2498,7 @@
     },
     {
         "name": "Hustler",
-        "manuf": "Hustler",
+        "manuf": "Vapid",
         "model": "Hustler",
         "spawn": "hustler",
         "price": "Unknown",
@@ -2509,7 +2509,7 @@
     },
     {
         "name": "Impaler",
-        "manuf": "Impaler",
+        "manuf": "Declasse",
         "model": "Impaler",
         "spawn": "impaler",
         "price": "Free",
@@ -2520,7 +2520,7 @@
     },
     {
         "name": "Apocalypse Impaler",
-        "manuf": "Apocalypse",
+        "manuf": "Declasse",
         "model": "Impaler",
         "spawn": "impaler2",
         "price": "Free",
@@ -2542,7 +2542,7 @@
     },
     {
         "name": "Nightmare Impaler",
-        "manuf": "Nightmare",
+        "manuf": "Declasse",
         "model": "Impaler",
         "spawn": "impaler4",
         "price": "Free",
@@ -2553,7 +2553,7 @@
     },
     {
         "name": "Apocalypse Imperator",
-        "manuf": "Apocalypse",
+        "manuf": "Vapid",
         "model": "Imperator",
         "spawn": "imperator",
         "price": "Free",
@@ -2564,7 +2564,7 @@
     },
     {
         "name": "Lurcher",
-        "manuf": "Lurcher",
+        "manuf": "Unknown",
         "model": "Lurcher",
         "spawn": "lurcher",
         "price": "Unknown",
@@ -2575,7 +2575,7 @@
     },
     {
         "name": "Moonbeam",
-        "manuf": "Moonbeam",
+        "manuf": "Unknown",
         "model": "Moonbeam",
         "spawn": "moonbeam",
         "price": "Free",
@@ -2597,7 +2597,7 @@
     },
     {
         "name": "Nightshade",
-        "manuf": "Nightshade",
+        "manuf": "Unknown",
         "model": "Nightshade",
         "spawn": "nightshade",
         "price": "Unknown",
@@ -2608,7 +2608,7 @@
     },
     {
         "name": "Peyote",
-        "manuf": "Peyote",
+        "manuf": "Unknown",
         "model": "Peyote",
         "spawn": "peyote",
         "price": "Unknown",
@@ -2619,7 +2619,7 @@
     },
     {
         "name": "Phoenix",
-        "manuf": "Phoenix",
+        "manuf": "Unknown",
         "model": "Phoenix",
         "spawn": "phoenix",
         "price": "Unknown",
@@ -2630,7 +2630,7 @@
     },
     {
         "name": "Picador",
-        "manuf": "Picador",
+        "manuf": "Unknown",
         "model": "Picador",
         "spawn": "picador",
         "price": "Unknown",
@@ -2641,7 +2641,7 @@
     },
     {
         "name": "Rat-Loader",
-        "manuf": "Rat-Loader",
+        "manuf": "Unknown",
         "model": "Rat-Loader",
         "spawn": "ratloader",
         "price": "Unknown",
@@ -2652,7 +2652,7 @@
     },
     {
         "name": "Rat-Truck",
-        "manuf": "Rat-Truck",
+        "manuf": "Unknown",
         "model": "Rat-Truck",
         "spawn": "ratloader2",
         "price": "Unknown",
@@ -2663,7 +2663,7 @@
     },
     {
         "name": "Ruiner",
-        "manuf": "Ruiner",
+        "manuf": "Imponte",
         "model": "Ruiner",
         "spawn": "ruiner",
         "price": "Unknown",
@@ -2718,7 +2718,7 @@
     },
     {
         "name": "Slamvan",
-        "manuf": "Slamvan",
+        "manuf": "Unknown",
         "model": "Slamvan",
         "spawn": "slamvan",
         "price": "Unknown",
@@ -2784,7 +2784,7 @@
     },
     {
         "name": "Tampa",
-        "manuf": "Tampa",
+        "manuf": "Declasse",
         "model": "Tampa",
         "spawn": "tampa",
         "price": "Unknown",
@@ -2795,7 +2795,7 @@
     },
     {
         "name": "Drift Tampa",
-        "manuf": "Drift",
+        "manuf": "Declasse",
         "model": "Tampa",
         "spawn": "tampa2",
         "price": "Unknown",
@@ -2806,7 +2806,7 @@
     },
     {
         "name": "Tulip",
-        "manuf": "Tulip",
+        "manuf": "Declasse",
         "model": "Tulip",
         "spawn": "tulip",
         "price": "Unknown",
@@ -2817,7 +2817,7 @@
     },
     {
         "name": "Vigero",
-        "manuf": "Vigero",
+        "manuf": "Declasse",
         "model": "Vigero",
         "spawn": "vigero",
         "price": "Unknown",
@@ -2828,7 +2828,7 @@
     },
     {
         "name": "Virgo",
-        "manuf": "Virgo",
+        "manuf": "Unknown",
         "model": "Virgo",
         "spawn": "virgo",
         "price": "Unknown",
@@ -2872,7 +2872,7 @@
     },
     {
         "name": "Voodoo",
-        "manuf": "Voodoo",
+        "manuf": "Unknown",
         "model": "Voodoo",
         "spawn": "voodoo2",
         "price": "Unknown",
@@ -2883,7 +2883,7 @@
     },
     {
         "name": "Yosemite",
-        "manuf": "Yosemite",
+        "manuf": "Declasse",
         "model": "Yosemite",
         "spawn": "yosemite",
         "price": "Unknown",
@@ -2894,7 +2894,7 @@
     },
     {
         "name": "Drift Yosemite",
-        "manuf": "Drift",
+        "manuf": "Declasse",
         "model": "Yosemite",
         "spawn": "yosemite2",
         "price": "Unknown",
@@ -2905,7 +2905,7 @@
     },
     {
         "name": "Bifta",
-        "manuf": "Bifta",
+        "manuf": "BF",
         "model": "Bifta",
         "spawn": "bifta",
         "price": "Unknown",
@@ -2916,7 +2916,7 @@
     },
     {
         "name": "Blazer",
-        "manuf": "Blazer",
+        "manuf": "Unknown",
         "model": "Blazer",
         "spawn": "blazer",
         "price": "Unknown",
@@ -2971,7 +2971,7 @@
     },
     {
         "name": "Brawler",
-        "manuf": "Brawler",
+        "manuf": "Coil",
         "model": "Brawler",
         "spawn": "brawler",
         "price": "Free",
@@ -2982,7 +2982,7 @@
     },
     {
         "name": "Caracara",
-        "manuf": "Caracara",
+        "manuf": "Unknown",
         "model": "Caracara",
         "spawn": "caracara",
         "price": "Unknown",
@@ -3004,7 +3004,7 @@
     },
     {
         "name": "Contender",
-        "manuf": "Contender",
+        "manuf": "Vapid",
         "model": "Contender",
         "spawn": "contender",
         "price": "Unknown",
@@ -3070,7 +3070,7 @@
     },
     {
         "name": "Freecrawler",
-        "manuf": "Freecrawler",
+        "manuf": "Canis",
         "model": "Freecrawler",
         "spawn": "freecrawler",
         "price": "Free",
@@ -3081,7 +3081,7 @@
     },
     {
         "name": "Hellion",
-        "manuf": "Hellion",
+        "manuf": "Unknown",
         "model": "Hellion",
         "spawn": "hellion",
         "price": "Unknown",
@@ -3092,7 +3092,7 @@
     },
     {
         "name": "Kamacho",
-        "manuf": "Kamacho",
+        "manuf": "Canis",
         "model": "Kamacho",
         "spawn": "kamacho",
         "price": "Unknown",
@@ -3103,7 +3103,7 @@
     },
     {
         "name": "Landstalker",
-        "manuf": "Landstalker",
+        "manuf": "Dundreary",
         "model": "Landstalker",
         "spawn": "landstalker",
         "price": "Unknown",
@@ -3125,7 +3125,7 @@
     },
     {
         "name": "Marshall",
-        "manuf": "Marshall",
+        "manuf": "Unknown",
         "model": "Marshall",
         "spawn": "marshall",
         "price": "Unknown",
@@ -3136,7 +3136,7 @@
     },
     {
         "name": "Mesa",
-        "manuf": "Mesa",
+        "manuf": "Canis",
         "model": "Mesa",
         "spawn": "mesa",
         "price": "Unknown",
@@ -3169,7 +3169,7 @@
     },
     {
         "name": "Liberator",
-        "manuf": "Liberator",
+        "manuf": "Unknown",
         "model": "Liberator",
         "spawn": "monster",
         "price": "Unknown",
@@ -3213,7 +3213,7 @@
     },
     {
         "name": "Outlaw",
-        "manuf": "Outlaw",
+        "manuf": "Nagasaki",
         "model": "Outlaw",
         "spawn": "outlaw",
         "price": "Unknown",
@@ -3235,7 +3235,7 @@
     },
     {
         "name": "Rusty Rebel",
-        "manuf": "Rusty",
+        "manuf": "Karin",
         "model": "Rebel",
         "spawn": "rebel",
         "price": "Unknown",
@@ -3246,7 +3246,7 @@
     },
     {
         "name": "Rebel",
-        "manuf": "Rebel",
+        "manuf": "Karin",
         "model": "Rebel",
         "spawn": "rebel2",
         "price": "Unknown",
@@ -3257,7 +3257,7 @@
     },
     {
         "name": "Riata",
-        "manuf": "Riata",
+        "manuf": "Unknown",
         "model": "Riata",
         "spawn": "riata",
         "price": "Unknown",
@@ -3312,7 +3312,7 @@
     },
     {
         "name": "Vagrant",
-        "manuf": "Vagrant",
+        "manuf": "Maxwell",
         "model": "Vagrant",
         "spawn": "vagrant",
         "price": "Unknown",
@@ -3323,7 +3323,7 @@
     },
     {
         "name": "Verus",
-        "manuf": "Verus",
+        "manuf": "Unknown",
         "model": "Verus",
         "spawn": "verus",
         "price": "Unknown",
@@ -3334,7 +3334,7 @@
     },
     {
         "name": "Winky",
-        "manuf": "Winky",
+        "manuf": "Unknown",
         "model": "Winky",
         "spawn": "winky",
         "price": "Unknown",
@@ -3345,7 +3345,7 @@
     },
     {
         "name": "Zhaba",
-        "manuf": "Zhaba",
+        "manuf": "Rune",
         "model": "Zhaba",
         "spawn": "zhaba",
         "price": "Unknown",
@@ -3433,7 +3433,7 @@
     },
     {
         "name": "Bison",
-        "manuf": "Bison",
+        "manuf": "Unknown",
         "model": "Bison",
         "spawn": "bison",
         "price": "Unknown",
@@ -3499,7 +3499,7 @@
     },
     {
         "name": "Dubsta",
-        "manuf": "Dubsta",
+        "manuf": "Benefactor",
         "model": "Dubsta",
         "spawn": "dubsta",
         "price": "Unknown",
@@ -3543,7 +3543,7 @@
     },
     {
         "name": "Granger",
-        "manuf": "Granger",
+        "manuf": "Declasse",
         "model": "Granger",
         "spawn": "granger",
         "price": "Unknown",
@@ -3554,7 +3554,7 @@
     },
     {
         "name": "Gresley",
-        "manuf": "Gresley",
+        "manuf": "Bravado",
         "model": "Gresley",
         "spawn": "gresley",
         "price": "Unknown",
@@ -3565,7 +3565,7 @@
     },
     {
         "name": "Habanero",
-        "manuf": "Habanero",
+        "manuf": "Emperor",
         "model": "Habanero",
         "spawn": "habanero",
         "price": "Unknown",
@@ -3587,7 +3587,7 @@
     },
     {
         "name": "Landstalker",
-        "manuf": "Landstalker",
+        "manuf": "Dundreary",
         "model": "Landstalker",
         "spawn": "landstalker",
         "price": "Unknown",
@@ -3598,7 +3598,7 @@
     },
     {
         "name": "Novak",
-        "manuf": "Novak",
+        "manuf": "Lampadati",
         "model": "Novak",
         "spawn": "novak",
         "price": "Unknown",
@@ -3609,7 +3609,7 @@
     },
     {
         "name": "Patriot",
-        "manuf": "Patriot",
+        "manuf": "Mammoth",
         "model": "Patriot",
         "spawn": "patriot",
         "price": "Unknown",
@@ -3642,7 +3642,7 @@
     },
     {
         "name": "Rocoto",
-        "manuf": "Rocoto",
+        "manuf": "Obey",
         "model": "Rocoto",
         "spawn": "rocoto",
         "price": "Unknown",
@@ -3653,7 +3653,7 @@
     },
     {
         "name": "Seminole",
-        "manuf": "Seminole",
+        "manuf": "Canis",
         "model": "Seminole",
         "spawn": "seminole",
         "price": "Unknown",
@@ -3664,7 +3664,7 @@
     },
     {
         "name": "Serrano",
-        "manuf": "Serrano",
+        "manuf": "Benefactor",
         "model": "Serrano",
         "spawn": "serrano",
         "price": "Unknown",
@@ -3675,7 +3675,7 @@
     },
     {
         "name": "Toros",
-        "manuf": "Toros",
+        "manuf": "Unknown",
         "model": "Toros",
         "spawn": "toros",
         "price": "Unknown",
@@ -3686,7 +3686,7 @@
     },
     {
         "name": "XLS",
-        "manuf": "XLS",
+        "manuf": "Unknown",
         "model": "XLS",
         "spawn": "xls",
         "price": "Unknown",
@@ -3708,7 +3708,7 @@
     },
     {
         "name": "APC",
-        "manuf": "APC",
+        "manuf": "Unknown",
         "model": "APC",
         "spawn": "apc",
         "price": "Unknown",
@@ -3719,7 +3719,7 @@
     },
     {
         "name": "Ardent",
-        "manuf": "Ardent",
+        "manuf": "Unknown",
         "model": "Ardent",
         "spawn": "ardent",
         "price": "Unknown",
@@ -3730,7 +3730,7 @@
     },
     {
         "name": "Avenger",
-        "manuf": "Avenger",
+        "manuf": "Unknown",
         "model": "Avenger",
         "spawn": "avenger",
         "price": "Unknown",
@@ -3752,7 +3752,7 @@
     },
     {
         "name": "Barrage",
-        "manuf": "Barrage",
+        "manuf": "Unknown",
         "model": "Barrage",
         "spawn": "barrage",
         "price": "Unknown",
@@ -3873,7 +3873,7 @@
     },
     {
         "name": "Chernobog",
-        "manuf": "Chernobog",
+        "manuf": "Unknown",
         "model": "Chernobog",
         "spawn": "chernobog",
         "price": "Unknown",
@@ -3917,7 +3917,7 @@
     },
     {
         "name": "Deluxo",
-        "manuf": "Deluxo",
+        "manuf": "Unknown",
         "model": "Deluxo",
         "spawn": "deluxo",
         "price": "Unknown",
@@ -3928,7 +3928,7 @@
     },
     {
         "name": "Half-track",
-        "manuf": "Half-track",
+        "manuf": "Unknown",
         "model": "Half-track",
         "spawn": "halftrack",
         "price": "Unknown",
@@ -3961,7 +3961,7 @@
     },
     {
         "name": "Nightmare Imperator",
-        "manuf": "Nightmare",
+        "manuf": "Vapid",
         "model": "Imperator",
         "spawn": "imperator3",
         "price": "Free",
@@ -3983,7 +3983,7 @@
     },
     {
         "name": "Insurgent",
-        "manuf": "Insurgent",
+        "manuf": "Unknown",
         "model": "Insurgent",
         "spawn": "insurgent2",
         "price": "Unknown",
@@ -4060,7 +4060,7 @@
     },
     {
         "name": "Menacer",
-        "manuf": "Menacer",
+        "manuf": "HVY",
         "model": "Menacer",
         "spawn": "menacer",
         "price": "Free",
@@ -4071,7 +4071,7 @@
     },
     {
         "name": "Nightshark",
-        "manuf": "Nightshark",
+        "manuf": "Unknown",
         "model": "Nightshark",
         "spawn": "nightshark",
         "price": "Unknown",
@@ -4082,7 +4082,7 @@
     },
     {
         "name": "Oppressor",
-        "manuf": "Oppressor",
+        "manuf": "Unknown",
         "model": "Oppressor",
         "spawn": "oppressor",
         "price": "Unknown",
@@ -4148,7 +4148,7 @@
     },
     {
         "name": "Stromberg",
-        "manuf": "Stromberg",
+        "manuf": "Unknown",
         "model": "Stromberg",
         "spawn": "stromberg",
         "price": "Unknown",
@@ -4159,7 +4159,7 @@
     },
     {
         "name": "Technical",
-        "manuf": "Technical",
+        "manuf": "Unknown",
         "model": "Technical",
         "spawn": "technical",
         "price": "Unknown",
@@ -4192,7 +4192,7 @@
     },
     {
         "name": "Thruster",
-        "manuf": "Thruster",
+        "manuf": "Unknown",
         "model": "Thruster",
         "spawn": "thruster",
         "price": "Unknown",
@@ -4203,7 +4203,7 @@
     },
     {
         "name": "Toreador",
-        "manuf": "Toreador",
+        "manuf": "Unknown",
         "model": "Toreador",
         "spawn": "toreador",
         "price": "Unknown",
@@ -4225,7 +4225,7 @@
     },
     {
         "name": "Wastelander",
-        "manuf": "Wastelander",
+        "manuf": "Unknown",
         "model": "Wastelander",
         "spawn": "wastelander",
         "price": "Unknown",
@@ -4269,7 +4269,7 @@
     },
     {
         "name": "Ambulance",
-        "manuf": "Ambulance",
+        "manuf": "Unknown",
         "model": "Ambulance",
         "spawn": "ambulance",
         "price": "Unknown",
@@ -4280,7 +4280,7 @@
     },
     {
         "name": "FIB Buffalo",
-        "manuf": "FIB",
+        "manuf": "Bravado",
         "model": "Buffalo",
         "spawn": "fbi",
         "price": "Unknown",
@@ -4313,7 +4313,7 @@
     },
     {
         "name": "Lifeguard",
-        "manuf": "Lifeguard",
+        "manuf": "Unknown",
         "model": "Lifeguard",
         "spawn": "lguard",
         "price": "Unknown",
@@ -4445,7 +4445,7 @@
     },
     {
         "name": "RCV",
-        "manuf": "RCV",
+        "manuf": "Unknown",
         "model": "RCV",
         "spawn": "riot2",
         "price": "Unknown",
@@ -4478,7 +4478,7 @@
     },
     {
         "name": "Benson",
-        "manuf": "Benson",
+        "manuf": "Unknown",
         "model": "Benson",
         "spawn": "benson",
         "price": "Unknown",
@@ -4489,7 +4489,7 @@
     },
     {
         "name": "Biff",
-        "manuf": "Biff",
+        "manuf": "Unknown",
         "model": "Biff",
         "spawn": "biff",
         "price": "Unknown",
@@ -4599,7 +4599,7 @@
     },
     {
         "name": "Bus",
-        "manuf": "Bus",
+        "manuf": "Unknown",
         "model": "Bus",
         "spawn": "bus",
         "price": "Unknown",
@@ -4610,7 +4610,7 @@
     },
     {
         "name": "Camper",
-        "manuf": "Camper",
+        "manuf": "Unknown",
         "model": "Camper",
         "spawn": "camper",
         "price": "Unknown",
@@ -4621,7 +4621,7 @@
     },
     {
         "name": "Dashound",
-        "manuf": "Dashound",
+        "manuf": "Unknown",
         "model": "Dashound",
         "spawn": "coach",
         "price": "Unknown",
@@ -4632,7 +4632,7 @@
     },
     {
         "name": "Flatbed",
-        "manuf": "Flatbed",
+        "manuf": "Unknown",
         "model": "Flatbed",
         "spawn": "flatbed",
         "price": "Unknown",
@@ -4643,7 +4643,7 @@
     },
     {
         "name": "Hauler",
-        "manuf": "Hauler",
+        "manuf": "Unknown",
         "model": "Hauler",
         "spawn": "hauler",
         "price": "Unknown",
@@ -4665,7 +4665,7 @@
     },
     {
         "name": "Journey",
-        "manuf": "Journey",
+        "manuf": "Unknown",
         "model": "Journey",
         "spawn": "journey",
         "price": "Unknown",
@@ -4687,7 +4687,7 @@
     },
     {
         "name": "Minivan",
-        "manuf": "Minivan",
+        "manuf": "Unknown",
         "model": "Minivan",
         "spawn": "minivan",
         "price": "Unknown",
@@ -4775,7 +4775,7 @@
     },
     {
         "name": "Packer",
-        "manuf": "Packer",
+        "manuf": "Unknown",
         "model": "Packer",
         "spawn": "packer",
         "price": "Unknown",
@@ -4786,7 +4786,7 @@
     },
     {
         "name": "Paradise",
-        "manuf": "Paradise",
+        "manuf": "Unknown",
         "model": "Paradise",
         "spawn": "paradise",
         "price": "Unknown",
@@ -4797,7 +4797,7 @@
     },
     {
         "name": "Phantom",
-        "manuf": "Phantom",
+        "manuf": "Unknown",
         "model": "Phantom",
         "spawn": "phantom",
         "price": "Unknown",
@@ -4830,7 +4830,7 @@
     },
     {
         "name": "Pony",
-        "manuf": "Pony",
+        "manuf": "Unknown",
         "model": "Pony",
         "spawn": "pony",
         "price": "Unknown",
@@ -4852,7 +4852,7 @@
     },
     {
         "name": "Pounder",
-        "manuf": "Pounder",
+        "manuf": "Unknown",
         "model": "Pounder",
         "spawn": "pounder",
         "price": "Unknown",
@@ -4874,7 +4874,7 @@
     },
     {
         "name": "Dune",
-        "manuf": "Dune",
+        "manuf": "Unknown",
         "model": "Dune",
         "spawn": "rallytruck",
         "price": "Unknown",
@@ -4896,7 +4896,7 @@
     },
     {
         "name": "Rubble",
-        "manuf": "Rubble",
+        "manuf": "Unknown",
         "model": "Rubble",
         "spawn": "rubble",
         "price": "Unknown",
@@ -4907,7 +4907,7 @@
     },
     {
         "name": "Rumpo",
-        "manuf": "Rumpo",
+        "manuf": "Unknown",
         "model": "Rumpo",
         "spawn": "rumpo",
         "price": "Unknown",
@@ -4951,7 +4951,7 @@
     },
     {
         "name": "Speedo",
-        "manuf": "Speedo",
+        "manuf": "Unknown",
         "model": "Speedo",
         "spawn": "speedo",
         "price": "Unknown",
@@ -4984,7 +4984,7 @@
     },
     {
         "name": "Surfer",
-        "manuf": "Surfer",
+        "manuf": "Unknown",
         "model": "Surfer",
         "spawn": "surfer",
         "price": "Unknown",
@@ -5017,7 +5017,7 @@
     },
     {
         "name": "Taxi",
-        "manuf": "Taxi",
+        "manuf": "Unknown",
         "model": "Taxi",
         "spawn": "taxi",
         "price": "Unknown",
@@ -5083,7 +5083,7 @@
     },
     {
         "name": "Trashmaster",
-        "manuf": "Trashmaster",
+        "manuf": "Unknown",
         "model": "Trashmaster",
         "spawn": "trash",
         "price": "Unknown",
@@ -5138,7 +5138,7 @@
     },
     {
         "name": "Youga",
-        "manuf": "Youga",
+        "manuf": "Unknown",
         "model": "Youga",
         "spawn": "youga",
         "price": "Unknown",
@@ -5171,7 +5171,7 @@
     },
     {
         "name": "Akuma",
-        "manuf": "Akuma",
+        "manuf": "Unknown",
         "model": "Akuma",
         "spawn": "akuma",
         "price": "Unknown",
@@ -5182,7 +5182,7 @@
     },
     {
         "name": "Avarus",
-        "manuf": "Avarus",
+        "manuf": "Unknown",
         "model": "Avarus",
         "spawn": "avarus",
         "price": "Unknown",
@@ -5193,7 +5193,7 @@
     },
     {
         "name": "Bagger",
-        "manuf": "Bagger",
+        "manuf": "Unknown",
         "model": "Bagger",
         "spawn": "bagger",
         "price": "Unknown",
@@ -5226,7 +5226,7 @@
     },
     {
         "name": "BF400",
-        "manuf": "BF400",
+        "manuf": "Unknown",
         "model": "BF400",
         "spawn": "bf400",
         "price": "Unknown",
@@ -5248,7 +5248,7 @@
     },
     {
         "name": "Chimera",
-        "manuf": "Chimera",
+        "manuf": "Unknown",
         "model": "Chimera",
         "spawn": "chimera",
         "price": "Unknown",
@@ -5259,7 +5259,7 @@
     },
     {
         "name": "Cliffhanger",
-        "manuf": "Cliffhanger",
+        "manuf": "Unknown",
         "model": "Cliffhanger",
         "spawn": "cliffhanger",
         "price": "Unknown",
@@ -5292,7 +5292,7 @@
     },
     {
         "name": "Defiler",
-        "manuf": "Defiler",
+        "manuf": "Unknown",
         "model": "Defiler",
         "spawn": "defiler",
         "price": "Unknown",
@@ -5303,7 +5303,7 @@
     },
     {
         "name": "Double-T",
-        "manuf": "Double-T",
+        "manuf": "Unknown",
         "model": "Double-T",
         "spawn": "double",
         "price": "Unknown",
@@ -5314,7 +5314,7 @@
     },
     {
         "name": "Enduro",
-        "manuf": "Enduro",
+        "manuf": "Unknown",
         "model": "Enduro",
         "spawn": "enduro",
         "price": "Unknown",
@@ -5325,7 +5325,7 @@
     },
     {
         "name": "Esskey",
-        "manuf": "Esskey",
+        "manuf": "Unknown",
         "model": "Esskey",
         "spawn": "esskey",
         "price": "Unknown",
@@ -5347,7 +5347,7 @@
     },
     {
         "name": "Faggio",
-        "manuf": "Faggio",
+        "manuf": "Unknown",
         "model": "Faggio",
         "spawn": "faggio2",
         "price": "Unknown",
@@ -5391,7 +5391,7 @@
     },
     {
         "name": "Gargoyle",
-        "manuf": "Gargoyle",
+        "manuf": "Unknown",
         "model": "Gargoyle",
         "spawn": "gargoyle",
         "price": "Unknown",
@@ -5402,7 +5402,7 @@
     },
     {
         "name": "Hakuchou",
-        "manuf": "Hakuchou",
+        "manuf": "Unknown",
         "model": "Hakuchou",
         "spawn": "hakuchou",
         "price": "Unknown",
@@ -5424,7 +5424,7 @@
     },
     {
         "name": "Hexer",
-        "manuf": "Hexer",
+        "manuf": "Unknown",
         "model": "Hexer",
         "spawn": "hexer",
         "price": "Unknown",
@@ -5435,7 +5435,7 @@
     },
     {
         "name": "Innovation",
-        "manuf": "Innovation",
+        "manuf": "Unknown",
         "model": "Innovation",
         "spawn": "innovation",
         "price": "Unknown",
@@ -5446,7 +5446,7 @@
     },
     {
         "name": "Lectro",
-        "manuf": "Lectro",
+        "manuf": "Unknown",
         "model": "Lectro",
         "spawn": "lectro",
         "price": "Unknown",
@@ -5457,7 +5457,7 @@
     },
     {
         "name": "Manchez",
-        "manuf": "Manchez",
+        "manuf": "Unknown",
         "model": "Manchez",
         "spawn": "manchez",
         "price": "Unknown",
@@ -5479,7 +5479,7 @@
     },
     {
         "name": "Nemesis",
-        "manuf": "Nemesis",
+        "manuf": "Unknown",
         "model": "Nemesis",
         "spawn": "nemesis",
         "price": "Unknown",
@@ -5490,7 +5490,7 @@
     },
     {
         "name": "Nightblade",
-        "manuf": "Nightblade",
+        "manuf": "Unknown",
         "model": "Nightblade",
         "spawn": "nightblade",
         "price": "Unknown",
@@ -5523,7 +5523,7 @@
     },
     {
         "name": "Ruffian",
-        "manuf": "Ruffian",
+        "manuf": "Unknown",
         "model": "Ruffian",
         "spawn": "ruffian",
         "price": "Unknown",
@@ -5545,7 +5545,7 @@
     },
     {
         "name": "Sanchez",
-        "manuf": "Sanchez",
+        "manuf": "Unknown",
         "model": "Sanchez",
         "spawn": "sanchez2",
         "price": "Unknown",
@@ -5556,7 +5556,7 @@
     },
     {
         "name": "Sanctus",
-        "manuf": "Sanctus",
+        "manuf": "Unknown",
         "model": "Sanctus",
         "spawn": "sanctus",
         "price": "Unknown",
@@ -5567,7 +5567,7 @@
     },
     {
         "name": "Shotaro",
-        "manuf": "Shotaro",
+        "manuf": "Unknown",
         "model": "Shotaro",
         "spawn": "shotaro",
         "price": "Unknown",
@@ -5578,7 +5578,7 @@
     },
     {
         "name": "Sovereign",
-        "manuf": "Sovereign",
+        "manuf": "Unknown",
         "model": "Sovereign",
         "spawn": "sovereign",
         "price": "Unknown",
@@ -5589,7 +5589,7 @@
     },
     {
         "name": "Stryder",
-        "manuf": "Stryder",
+        "manuf": "Unknown",
         "model": "Stryder",
         "spawn": "stryder",
         "price": "Unknown",
@@ -5600,7 +5600,7 @@
     },
     {
         "name": "Thrust",
-        "manuf": "Thrust",
+        "manuf": "Unknown",
         "model": "Thrust",
         "spawn": "thrust",
         "price": "Unknown",
@@ -5611,7 +5611,7 @@
     },
     {
         "name": "Vader",
-        "manuf": "Vader",
+        "manuf": "Unknown",
         "model": "Vader",
         "spawn": "vader",
         "price": "Unknown",
@@ -5622,7 +5622,7 @@
     },
     {
         "name": "Vindicator",
-        "manuf": "Vindicator",
+        "manuf": "Unknown",
         "model": "Vindicator",
         "spawn": "vindicator",
         "price": "Free",
@@ -5633,7 +5633,7 @@
     },
     {
         "name": "Vortex",
-        "manuf": "Vortex",
+        "manuf": "Unknown",
         "model": "Vortex",
         "spawn": "vortex",
         "price": "Unknown",
@@ -5644,7 +5644,7 @@
     },
     {
         "name": "Wolfsbane",
-        "manuf": "Wolfsbane",
+        "manuf": "Unknown",
         "model": "Wolfsbane",
         "spawn": "wolfsbane",
         "price": "Unknown",
@@ -5677,7 +5677,7 @@
     },
     {
         "name": "BMX",
-        "manuf": "BMX",
+        "manuf": "Unknown",
         "model": "BMX",
         "spawn": "bmx",
         "price": "Unknown",
@@ -5688,7 +5688,7 @@
     },
     {
         "name": "Cruiser",
-        "manuf": "Cruiser",
+        "manuf": "Unknown",
         "model": "Cruiser",
         "spawn": "cruiser",
         "price": "Unknown",
@@ -5699,7 +5699,7 @@
     },
     {
         "name": "Fixter",
-        "manuf": "Fixter",
+        "manuf": "Unknown",
         "model": "Fixter",
         "spawn": "fixter",
         "price": "Unknown",
@@ -5710,7 +5710,7 @@
     },
     {
         "name": "Scorcher",
-        "manuf": "Scorcher",
+        "manuf": "Unknown",
         "model": "Scorcher",
         "spawn": "scorcher",
         "price": "Unknown",
@@ -5754,7 +5754,7 @@
     },
     {
         "name": "Akula",
-        "manuf": "Akula",
+        "manuf": "Unknown",
         "model": "Akula",
         "spawn": "akula",
         "price": "Unknown",
@@ -5765,7 +5765,7 @@
     },
     {
         "name": "Alpha-Z1",
-        "manuf": "Alpha-Z1",
+        "manuf": "Unknown",
         "model": "Alpha-Z1",
         "spawn": "alphaz1",
         "price": "Unknown",
@@ -5776,7 +5776,7 @@
     },
     {
         "name": "Annihilator",
-        "manuf": "Annihilator",
+        "manuf": "Unknown",
         "model": "Annihilator",
         "spawn": "annihilator",
         "price": "Unknown",
@@ -5798,7 +5798,7 @@
     },
     {
         "name": "Besra",
-        "manuf": "Besra",
+        "manuf": "Unknown",
         "model": "Besra",
         "spawn": "besra",
         "price": "Unknown",
@@ -5831,7 +5831,7 @@
     },
     {
         "name": "Buzzard",
-        "manuf": "Buzzard",
+        "manuf": "Unknown",
         "model": "Buzzard",
         "spawn": "buzzard2",
         "price": "Unknown",
@@ -5842,7 +5842,7 @@
     },
     {
         "name": "Cargobob",
-        "manuf": "Cargobob",
+        "manuf": "Unknown",
         "model": "Cargobob",
         "spawn": "cargobob",
         "price": "Unknown",
@@ -5897,7 +5897,7 @@
     },
     {
         "name": "Dodo",
-        "manuf": "Dodo",
+        "manuf": "Unknown",
         "model": "Dodo",
         "spawn": "dodo",
         "price": "Unknown",
@@ -5908,7 +5908,7 @@
     },
     {
         "name": "Duster",
-        "manuf": "Duster",
+        "manuf": "Unknown",
         "model": "Duster",
         "spawn": "duster",
         "price": "Unknown",
@@ -5919,7 +5919,7 @@
     },
     {
         "name": "Frogger",
-        "manuf": "Frogger",
+        "manuf": "Unknown",
         "model": "Frogger",
         "spawn": "frogger",
         "price": "Unknown",
@@ -5941,7 +5941,7 @@
     },
     {
         "name": "Havok",
-        "manuf": "Havok",
+        "manuf": "Unknown",
         "model": "Havok",
         "spawn": "havok",
         "price": "Unknown",
@@ -5963,7 +5963,7 @@
     },
     {
         "name": "Hydra",
-        "manuf": "Hydra",
+        "manuf": "Unknown",
         "model": "Hydra",
         "spawn": "hydra",
         "price": "Unknown",
@@ -5974,7 +5974,7 @@
     },
     {
         "name": "Jet",
-        "manuf": "Jet",
+        "manuf": "Unknown",
         "model": "Jet",
         "spawn": "jet",
         "price": "Unknown",
@@ -5996,7 +5996,7 @@
     },
     {
         "name": "Luxor",
-        "manuf": "Luxor",
+        "manuf": "Unknown",
         "model": "Luxor",
         "spawn": "luxor",
         "price": "Unknown",
@@ -6018,7 +6018,7 @@
     },
     {
         "name": "Mammatus",
-        "manuf": "Mammatus",
+        "manuf": "Unknown",
         "model": "Mammatus",
         "spawn": "mammatus",
         "price": "Unknown",
@@ -6029,7 +6029,7 @@
     },
     {
         "name": "Maverick",
-        "manuf": "Maverick",
+        "manuf": "Unknown",
         "model": "Maverick",
         "spawn": "maverick",
         "price": "Unknown",
@@ -6040,7 +6040,7 @@
     },
     {
         "name": "Ultralight",
-        "manuf": "Ultralight",
+        "manuf": "Unknown",
         "model": "Ultralight",
         "spawn": "microlight",
         "price": "Unknown",
@@ -6051,7 +6051,7 @@
     },
     {
         "name": "Miljet",
-        "manuf": "Miljet",
+        "manuf": "Unknown",
         "model": "Miljet",
         "spawn": "miljet",
         "price": "Unknown",
@@ -6062,7 +6062,7 @@
     },
     {
         "name": "Mogul",
-        "manuf": "Mogul",
+        "manuf": "Unknown",
         "model": "Mogul",
         "spawn": "mogul",
         "price": "Unknown",
@@ -6084,7 +6084,7 @@
     },
     {
         "name": "Pyro",
-        "manuf": "Pyro",
+        "manuf": "Unknown",
         "model": "Pyro",
         "spawn": "pyro",
         "price": "Unknown",
@@ -6095,7 +6095,7 @@
     },
     {
         "name": "Rogue",
-        "manuf": "Rogue",
+        "manuf": "Unknown",
         "model": "Rogue",
         "spawn": "rogue",
         "price": "Unknown",
@@ -6106,7 +6106,7 @@
     },
     {
         "name": "Savage",
-        "manuf": "Savage",
+        "manuf": "Unknown",
         "model": "Savage",
         "spawn": "savage",
         "price": "Unknown",
@@ -6117,7 +6117,7 @@
     },
     {
         "name": "Seabreeze",
-        "manuf": "Seabreeze",
+        "manuf": "Unknown",
         "model": "Seabreeze",
         "spawn": "seabreeze",
         "price": "Unknown",
@@ -6139,7 +6139,7 @@
     },
     {
         "name": "Shamal",
-        "manuf": "Shamal",
+        "manuf": "Unknown",
         "model": "Shamal",
         "spawn": "shamal",
         "price": "$50,000",
@@ -6161,7 +6161,7 @@
     },
     {
         "name": "Mallard",
-        "manuf": "Mallard",
+        "manuf": "Unknown",
         "model": "Mallard",
         "spawn": "stunt",
         "price": "Unknown",
@@ -6172,7 +6172,7 @@
     },
     {
         "name": "SuperVolito",
-        "manuf": "SuperVolito",
+        "manuf": "Unknown",
         "model": "SuperVolito",
         "spawn": "supervolito",
         "price": "Unknown",
@@ -6194,7 +6194,7 @@
     },
     {
         "name": "Swift",
-        "manuf": "Swift",
+        "manuf": "Unknown",
         "model": "Swift",
         "spawn": "swift",
         "price": "Unknown",
@@ -6216,7 +6216,7 @@
     },
     {
         "name": "Titan",
-        "manuf": "Titan",
+        "manuf": "Unknown",
         "model": "Titan",
         "spawn": "titan",
         "price": "Unknown",
@@ -6227,7 +6227,7 @@
     },
     {
         "name": "Tula",
-        "manuf": "Tula",
+        "manuf": "Unknown",
         "model": "Tula",
         "spawn": "tula",
         "price": "Unknown",
@@ -6238,7 +6238,7 @@
     },
     {
         "name": "Valkyrie",
-        "manuf": "Valkyrie",
+        "manuf": "Unknown",
         "model": "Valkyrie",
         "spawn": "valkyrie",
         "price": "Unknown",
@@ -6260,7 +6260,7 @@
     },
     {
         "name": "Velum",
-        "manuf": "Velum",
+        "manuf": "Unknown",
         "model": "Velum",
         "spawn": "velum",
         "price": "Unknown",
@@ -6282,7 +6282,7 @@
     },
     {
         "name": "Vestra",
-        "manuf": "Vestra",
+        "manuf": "Unknown",
         "model": "Vestra",
         "spawn": "vestra",
         "price": "Unknown",
@@ -6293,7 +6293,7 @@
     },
     {
         "name": "Volatol",
-        "manuf": "Volatol",
+        "manuf": "Unknown",
         "model": "Volatol",
         "spawn": "volatol",
         "price": "Unknown",
@@ -6304,7 +6304,7 @@
     },
     {
         "name": "Volatus",
-        "manuf": "Volatus",
+        "manuf": "Unknown",
         "model": "Volatus",
         "spawn": "volatus",
         "price": "Unknown",
@@ -6359,7 +6359,7 @@
     },
     {
         "name": "Jetmax",
-        "manuf": "Jetmax",
+        "manuf": "Unknown",
         "model": "Jetmax",
         "spawn": "jetmax",
         "price": "Unknown",
@@ -6370,7 +6370,7 @@
     },
     {
         "name": "Kosatka",
-        "manuf": "Kosatka",
+        "manuf": "Unknown",
         "model": "Kosatka",
         "spawn": "kosatka",
         "price": "Unknown",
@@ -6381,7 +6381,7 @@
     },
     {
         "name": "Longfin",
-        "manuf": "Longfin",
+        "manuf": "Unknown",
         "model": "Longfin",
         "spawn": "longfin",
         "price": "Unknown",
@@ -6392,7 +6392,7 @@
     },
     {
         "name": "Marquis",
-        "manuf": "Marquis",
+        "manuf": "Unknown",
         "model": "Marquis",
         "spawn": "marquis",
         "price": "Unknown",
@@ -6403,7 +6403,7 @@
     },
     {
         "name": "Seashark",
-        "manuf": "Seashark",
+        "manuf": "Unknown",
         "model": "Seashark",
         "spawn": "seashark",
         "price": "Unknown",
@@ -6436,7 +6436,7 @@
     },
     {
         "name": "Speeder",
-        "manuf": "Speeder",
+        "manuf": "Unknown",
         "model": "Speeder",
         "spawn": "speeder",
         "price": "Unknown",
@@ -6447,7 +6447,7 @@
     },
     {
         "name": "Squalo",
-        "manuf": "Squalo",
+        "manuf": "Unknown",
         "model": "Squalo",
         "spawn": "squalo",
         "price": "Unknown",
@@ -6458,7 +6458,7 @@
     },
     {
         "name": "Submersible",
-        "manuf": "Submersible",
+        "manuf": "Unknown",
         "model": "Submersible",
         "spawn": "submersible",
         "price": "Unknown",
@@ -6469,7 +6469,7 @@
     },
     {
         "name": "Kraken",
-        "manuf": "Kraken",
+        "manuf": "Unknown",
         "model": "Kraken",
         "spawn": "submersible2",
         "price": "Unknown",
@@ -6480,7 +6480,7 @@
     },
     {
         "name": "Suntrap",
-        "manuf": "Suntrap",
+        "manuf": "Unknown",
         "model": "Suntrap",
         "spawn": "suntrap",
         "price": "Unknown",
@@ -6491,7 +6491,7 @@
     },
     {
         "name": "Toro",
-        "manuf": "Toro",
+        "manuf": "Unknown",
         "model": "Toro",
         "spawn": "toro",
         "price": "Free",
@@ -6513,7 +6513,7 @@
     },
     {
         "name": "Tropic",
-        "manuf": "Tropic",
+        "manuf": "Unknown",
         "model": "Tropic",
         "spawn": "tropic",
         "price": "Unknown",
@@ -6524,7 +6524,7 @@
     },
     {
         "name": "Tug",
-        "manuf": "Tug",
+        "manuf": "Unknown",
         "model": "Tug",
         "spawn": "tug",
         "price": "Unknown",
