@@ -2386,7 +2386,7 @@
         "class": "Sport",
         "price": "$100,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "driftfuto.png"
     },
     {
@@ -2396,7 +2396,7 @@
         "class": "Sport",
         "price": "$100,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "driftfuto2.png"
     },
     {
