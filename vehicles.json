@@ -8886,7 +8886,7 @@
         "class": "Coupe",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "windsor.png"
     },
     {
@@ -8896,7 +8896,7 @@
         "class": "Coupe",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "windsor2.png"
     },
     {
