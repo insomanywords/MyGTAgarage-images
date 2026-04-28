@@ -76,7 +76,7 @@
         "class": "Sport",
         "price": "$80,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "alpha.png"
     },
     {
@@ -186,7 +186,7 @@
         "class": "Compact",
         "price": "$150,000",
         "drive": "FWD",
-        "seats": "4",
+        "seats": "2",
         "image": "asbo.png"
     },
     {
@@ -956,7 +956,7 @@
         "class": "Compact",
         "price": "$35,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "brioso2.png"
     },
     {
@@ -966,7 +966,7 @@
         "class": "Compact",
         "price": "$35,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "brioso3.png"
     },
     {
@@ -1136,7 +1136,7 @@
         "class": "Muscle",
         "price": "$25,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "buffalo5.png"
     },
     {
@@ -1636,7 +1636,7 @@
         "class": "Compact",
         "price": "$150,000",
         "drive": "FWD",
-        "seats": "4",
+        "seats": "2",
         "image": "club.png"
     },
     {
@@ -1816,7 +1816,7 @@
         "class": "Muscle",
         "price": "$150,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "coquette3.png"
     },
     {
@@ -2136,7 +2136,7 @@
         "class": "Off_Road",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "dloader.png"
     },
     {
@@ -2176,7 +2176,7 @@
         "class": "Muscle",
         "price": "$150,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "dominator.png"
     },
     {
@@ -2266,7 +2266,7 @@
         "class": "Muscle",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "dominator9.png"
     },
     {
@@ -2386,7 +2386,7 @@
         "class": "Sport",
         "price": "$100,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "driftfuto.png"
     },
     {
@@ -2396,7 +2396,7 @@
         "class": "Sport",
         "price": "$100,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "driftfuto2.png"
     },
     {
@@ -2406,7 +2406,7 @@
         "class": "Muscle",
         "price": "$25,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "driftgauntlet4.png"
     },
     {
@@ -2496,7 +2496,7 @@
         "class": "Sport",
         "price": "$80,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "driftsentinel.png"
     },
     {
@@ -2716,7 +2716,7 @@
         "class": "Sport",
         "price": "$100,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "elegy2.png"
     },
     {
@@ -3052,7 +3052,7 @@
     {
         "spawn": "feltzer3",
         "manuf": "Benefactor",
-        "model": "Feltzer Classic",
+        "model": "Stirling GT",
         "class": "Sport_Classic",
         "price": "$30,000",
         "drive": "RWD",
@@ -3686,7 +3686,7 @@
         "class": "Off_Road",
         "price": "$50,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "hellion.png"
     },
     {
@@ -4006,7 +4006,7 @@
         "class": "Compact",
         "price": "$35,000",
         "drive": "FWD",
-        "seats": "4",
+        "seats": "2",
         "image": "issi2.png"
     },
     {
@@ -4016,7 +4016,7 @@
         "class": "Compact",
         "price": "$52,000",
         "drive": "FWD",
-        "seats": "4",
+        "seats": "2",
         "image": "issi3.png"
     },
     {
@@ -4306,7 +4306,7 @@
         "class": "Coupe",
         "price": "$150,000",
         "drive": "FWD",
-        "seats": "4",
+        "seats": "2",
         "image": "kanjosj.png"
     },
     {
@@ -4326,7 +4326,7 @@
         "class": "Sport",
         "price": "$35,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "khamelion.png"
     },
     {
@@ -4906,7 +4906,7 @@
         "class": "Off_Road",
         "price": "$50,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "monstrociti.png"
     },
     {
@@ -5516,7 +5516,7 @@
         "class": "Muscle",
         "price": "$35,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "picador.png"
     },
     {
@@ -6146,7 +6146,7 @@
         "class": "Off_Road",
         "price": "$50,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "rebel.png"
     },
     {
@@ -6156,7 +6156,7 @@
         "class": "Off_Road",
         "price": "$50,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "rebel2.png"
     },
     {
@@ -6226,7 +6226,7 @@
         "class": "Sport_Classic",
         "price": "$150,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "retinue2.png"
     },
     {
@@ -6856,7 +6856,7 @@
         "class": "Sport",
         "price": "$150,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "sentinel4.png"
     },
     {
@@ -7046,7 +7046,7 @@
         "class": "Sport",
         "price": "$150,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "sm722.png"
     },
     {
@@ -7416,7 +7416,7 @@
         "class": "Super",
         "price": "$35,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "sultanrs.png"
     },
     {
@@ -7896,7 +7896,7 @@
         "class": "Sport_Classic",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "tornado.png"
     },
     {
@@ -7906,7 +7906,7 @@
         "class": "Sport_Classic",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "tornado2.png"
     },
     {
@@ -7916,7 +7916,7 @@
         "class": "Sport_Classic",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "tornado3.png"
     },
     {
@@ -7926,7 +7926,7 @@
         "class": "Sport_Classic",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "tornado4.png"
     },
     {
@@ -7936,7 +7936,7 @@
         "class": "Sport_Classic",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "tornado5.png"
     },
     {
@@ -7946,7 +7946,7 @@
         "class": "Sport_Classic",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "tornado6.png"
     },
     {
@@ -8406,7 +8406,7 @@
         "class": "Sport_Classic",
         "price": "$100,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "uranus.png"
     },
     {
@@ -8516,7 +8516,7 @@
         "class": "Sport",
         "price": "$150,000",
         "drive": "AWD",
-        "seats": "4",
+        "seats": "2",
         "image": "vectre.png"
     },
     {
@@ -8616,7 +8616,7 @@
         "class": "Muscle",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "vigero2.png"
     },
     {
@@ -8886,7 +8886,7 @@
         "class": "Coupe",
         "price": "$25,000",
         "drive": "RWD",
-        "seats": "4",
+        "seats": "2",
         "image": "windsor.png"
     },
     {
