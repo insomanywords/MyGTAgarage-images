@@ -9278,5 +9278,35 @@
         "drive": "RWD",
         "seats": "2",
         "image": "ztype.png"
+    },
+    {
+        "spawn": "horus",
+        "manuf": "Pegassi",
+        "model": "Horus",
+        "class": "Super",
+        "price": "$2,810,000",
+        "drive": "RWD",
+        "seats": "2",
+        "image": "horus.png"
+    },
+    {
+        "spawn": "polignus",
+        "manuf": "Pegassi",
+        "model": "Ignus Pursuit",
+        "class": "Emergency",
+        "price": "$5,835,000",
+        "drive": "AWD",
+        "seats": "2",
+        "image": "polignus.png"
+    },
+    {
+        "spawn": "warden",
+        "manuf": "Gallivanter",
+        "model": "Warden",
+        "class": "Suv",
+        "price": "$1,597,500",
+        "drive": "AWD",
+        "seats": "4",
+        "image": "warden.png"
     }
 ]
