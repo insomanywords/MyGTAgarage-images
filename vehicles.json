@@ -150,6 +150,16 @@
         "image": "ardent.png"
     },
     {
+        "spawn": "armcaracara",
+        "manuf": "Vapid",
+        "model": "Caracara (Armored)",
+        "class": "Off_Road",
+        "price": "Steal/Free",
+        "drive": "AWD",
+        "seats": "5",
+        "image": "armcaracara.png"
+    },
+    {
         "spawn": "armytanker",
         "manuf": "Unknown",
         "model": "Army Trailer",
@@ -1052,7 +1062,7 @@
     {
         "spawn": "btype2",
         "manuf": "Albany",
-        "model": "Fr\u00e4nken Stange",
+        "model": "Fränken Stange",
         "class": "Sport_Classic",
         "price": "$70,000",
         "drive": "RWD",
@@ -1408,6 +1418,16 @@
         "drive": "RWD",
         "seats": "5",
         "image": "cargoplane2.png"
+    },
+    {
+        "spawn": "cartucciagt",
+        "manuf": "Grotti",
+        "model": "Cartuccia GT",
+        "class": "Sport",
+        "price": "$2,395,000",
+        "drive": "RWD",
+        "seats": "2",
+        "image": "cartucciagt.png"
     },
     {
         "spawn": "casco",
@@ -2828,6 +2848,16 @@
         "drive": "RWD",
         "seats": "2",
         "image": "esskey.png"
+    },
+    {
+        "spawn": "estride",
+        "manuf": "Ocelot",
+        "model": "E-Stride",
+        "class": "Suv",
+        "price": "$1,425,000",
+        "drive": "AWD",
+        "seats": "4",
+        "image": "estride.png"
     },
     {
         "spawn": "eudora",
@@ -4430,6 +4460,16 @@
         "image": "landstalker2.png"
     },
     {
+        "spawn": "laufer",
+        "manuf": "Benefactor",
+        "model": "Läufer",
+        "class": "Van",
+        "price": "$645,000",
+        "drive": "RWD",
+        "seats": "4",
+        "image": "laufer.png"
+    },
+    {
         "spawn": "lazer",
         "manuf": "Unknown",
         "model": "P-996 LAZER",
@@ -4508,6 +4548,16 @@
         "drive": "RWD",
         "seats": "4",
         "image": "longfin.png"
+    },
+    {
+        "spawn": "lrcgt",
+        "manuf": "Benefactor",
+        "model": "LRC GT",
+        "class": "Super",
+        "price": "$2,640,000",
+        "drive": "RWD",
+        "seats": "2",
+        "image": "lrcgt.png"
     },
     {
         "spawn": "luiva",
@@ -4698,6 +4748,16 @@
         "drive": "AWD",
         "seats": "5",
         "image": "menacer.png"
+    },
+    {
+        "spawn": "merula",
+        "manuf": "Albany",
+        "model": "Merula",
+        "class": "Sedan",
+        "price": "$1,394,000",
+        "drive": "RWD",
+        "seats": "4",
+        "image": "merula.png"
     },
     {
         "spawn": "mesa",
@@ -8520,6 +8580,16 @@
         "image": "vectre.png"
     },
     {
+        "spawn": "velenogt",
+        "manuf": "Grotti",
+        "model": "Veleno GT",
+        "class": "Super",
+        "price": "$2,950,000",
+        "drive": "RWD",
+        "seats": "2",
+        "image": "velenogt.png"
+    },
+    {
         "spawn": "velum",
         "manuf": "Unknown",
         "model": "Velum",
@@ -9208,76 +9278,5 @@
         "drive": "RWD",
         "seats": "2",
         "image": "ztype.png"
-    },
-    {
-        "spawn": "armcaracara",
-        "manuf": "Vapid",
-        "model": "Caracara (Armored)",
-        "class": "Off_Road",
-        "price": "Steal/Free",
-        "drive": "AWD",
-        "seats": "5",
-        "image": "armcaracara.png"
-    },
-    {
-        "spawn": "cartucciagt",
-        "manuf": "Grotti",
-        "model": "Cartuccia GT",
-        "class": "Sport",
-        "price": "$2,395,000",
-        "drive": "RWD",
-        "seats": "2",
-        "image": "cartucciagt.png"
-    },
-    {
-        "spawn": "estride",
-        "manuf": "Ocelot",
-        "model": "E-Stride",
-        "class": "Suv",
-        "price": "$1,425,000",
-        "drive": "AWD",
-        "seats": "4",
-        "image": "estride.png"
-    },
-    {
-        "spawn": "laufer",
-        "manuf": "Benefactor",
-        "model": "Läufer",
-        "class": "Van",
-        "price": "$645,000",
-        "drive": "RWD",
-        "seats": "4",
-        "image": "laufer.png"
-    },
-    {
-        "spawn": "lrcgt",
-        "manuf": "Benefactor",
-        "model": "LRC GT",
-        "class": "Super",
-        "price": "$2,640,000",
-        "drive": "RWD",
-        "seats": "2",
-        "image": "lrcgt.png"
-    },
-    {
-        "spawn": "merula",
-        "manuf": "Albany",
-        "model": "Merula",
-        "class": "Sedan",
-        "price": "$1,394,000",
-        "drive": "RWD",
-        "seats": "4",
-        "image": "merula.png"
-    },
-    {
-        "spawn": "velenogt",
-        "manuf": "Grotti",
-        "model": "Veleno GT",
-        "class": "Super",
-        "price": "$2,950,000",
-        "drive": "RWD",
-        "seats": "2",
-        "image": "velenogt.png"
     }
 ]
-
